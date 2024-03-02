@@ -40,7 +40,7 @@
 
 #code
 
-# Generating random date 
+# Generating random data
 import random
 
 def simulate_sensor_data():
